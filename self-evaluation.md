@@ -1,0 +1,1 @@
+I feel pretty confident so far, it's rather self-explanatory. I definitely wish to study and try out all the methods listed, or at least read about them. One question about arrays-- can there be combined functions between multiple arrays and if so how would that look?
