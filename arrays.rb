@@ -44,3 +44,11 @@ p names[4]
 # and "nil" because there is no forth index position.
 # Because I removed the last position in the pop example "Pat" will
 # also now read "nil"
+
+#Additional array method "sort" and "sort.reverse!"
+#"sort" will arrange the array by inplementing a block comparison.
+#"sort.reverse!" does the opposite.
+
+p ages.sort
+p ages.sort.reverse!
+
